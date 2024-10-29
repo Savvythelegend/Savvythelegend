@@ -3,9 +3,10 @@
 <h2>🚀 Languages and Tools I Use</h2>
 
 ## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/2.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/4.png" width="100px" height="100px" />
@@ -14,6 +15,7 @@
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/7.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/8.png" width="100px" height="100px" />
 </div>
+
 
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
