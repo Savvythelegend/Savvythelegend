@@ -3,22 +3,17 @@
 <h2>🚀 Languages and Tools I Use</h2>
 
 ## GSSOC(24) Badges 🪶
-
-[Leaderboard](https://gssoc.girlscript.tech/leaderboard)
-
-![Badge 1](https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png)
-![Badge 2](https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png)
-![Badge 3](https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png)
-![Badge 4](https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png)
-![Badge 5](https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png)
-![Badge 6](https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png)
-![Badge 7](https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png)
-![Badge 8](https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png)
-![Badge 9](https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png)
-![Code Luminary](https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png)
-![Git Explorer](https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png)
-![Pull Expert](https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png)
-
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/6.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/7.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/8.png" width="100px" height="100px" />
+</div>
 
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
