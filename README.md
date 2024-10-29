@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# About Me:
+
+🔭 I’m currently working on: An AI text summarizer app.
+
+👯 I’m looking to collaborate on: Open source projects in AI.
+
+🤝 I’m looking for help with: Machine learning techniques.
+
+🌱 I’m currently learning: Machine learning and Django.
+
+💬 Ask me about: AI and prompt engineering.
+
+⚡ Fun fact: People know more about me than I do!
 
 
 ## 🌐 Socials:
