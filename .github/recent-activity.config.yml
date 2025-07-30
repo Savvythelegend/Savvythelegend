@@ -1,4 +1,7 @@
 max_lines: 5
+commit: true
+issue: true
+pr: true
 event_types:
   - PushEvent
   - PullRequestEvent
