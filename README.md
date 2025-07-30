@@ -21,6 +21,14 @@
 
 </details>
 
+<details>
+  <summary><b>{;}⌨️ Developer Stats</b></summary><br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</details>
+
 <img src="https://raw.githubusercontent.com/Savvythelegend/Savvythelegend/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 
 
