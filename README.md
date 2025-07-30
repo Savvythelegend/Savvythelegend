@@ -1,4 +1,4 @@
-![Typing Animation](assets/pixel.gif)
+<img src="https://github.com/Savvythelegend/Savvythelegend/blob/main/assets/intro.gif?raw=true" width="100%" />
 
 <details>	
 <summary><b>⚙️ GitHub Analytics</b></summary>
