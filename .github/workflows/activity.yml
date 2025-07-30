@@ -1,4 +1,4 @@
-name: Recent GitHub Activity - Profile Readme
+name: Recent GitHub Activity
 
 on:
   schedule:
