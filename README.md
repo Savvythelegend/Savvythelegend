@@ -59,13 +59,15 @@
   <summary><b>{;}⌨️ Developer Stats</b></summary><br>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-369-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-182.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 44.2 kB Used in GitHub's Storage 
+> 📦 44.3 kB Used in GitHub's Storage 
  > 
-> 🏆 660 Contributions in the Year 2025
+> 🏆 667 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -73,45 +75,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                131 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-🌆 Daytime                347 commits         ██████████░░░░░░░░░░░░░░░   40.97 % 
-🌃 Evening                265 commits         ████████░░░░░░░░░░░░░░░░░   31.29 % 
-🌙 Night                  104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
-Tuesday                  108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Wednesday                186 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-Thursday                 58 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Friday                   109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Saturday                 152 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-Sunday                   142 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -121,10 +84,15 @@ Go                       1 repo              █░░░░░░░░░░�
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
-<br>
- <a href="https://u8views.com/github/Savvythelegend">
-    <img src="https://u8views.com/api/v1/github/profiles/162735469/views/day-week-month-total-count.svg" alt="Mehfooj profile views" />
-  </a>
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Savvythelegend/Savvythelegend/main/assets/bar_graph.png)
+
+
+ Last Updated on 30/07/2025 18:59:13 UTC
 <!--END_SECTION:waka-->
 
 </details>
