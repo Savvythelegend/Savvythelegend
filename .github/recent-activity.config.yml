@@ -1,7 +1,7 @@
+user: Savvythelegend
+readme_path: ./README.md
+commit_msg: "⚡ Update recent activity"
 max_lines: 5
-commit: true
-issue: true
-pr: true
 event_types:
   - PushEvent
   - PullRequestEvent
