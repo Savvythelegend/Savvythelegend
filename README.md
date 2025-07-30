@@ -4,32 +4,34 @@
 
 ## Certification Badges 🪶
 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<div align="center">
 
-<!-- OpenAPI Fundamentals (Credly, Custom Image) -->
-<a href="https://www.credly.com/badges/724d6ecc-9d95-48eb-bed5-2c91bb8a9f12/public_url">
-  <img src="https://github.com/user-attachments/assets/58afc75e-0893-44e2-a25a-27f1c12259a8" width="105px" height="105px" />
-</a>
-<!-- Layer5 Meshery Design Pioneer -->
-<a href="https://cloud.layer5.io/user/ed3ff164-571f-4b6c-a69a-f71630ee77bc?tab=badges&badge=first-design">
-  <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="105px" height="105px" />
-</a>
-<!-- Postman API Badge (Badgr) -->
-<a href="https://badgr.com/public/assertions/vHKkOJaqTeyFwwVbNrUx6g?identity__email=mehfooja764@gmail.com">
-  <img src="https://badgr.com/public/assertions/vHKkOJaqTeyFwwVbNrUx6g/image" width="105px" height="105px" />
-</a>
-<!-- GenAI Badge (Badgr) -->
-<a href="https://badgr.com/public/assertions/yImYkrwDTMWE8YUw4RXjIA?identity__email=mehfooja764@gmail.com">
-  <img src="https://badgr.com/public/assertions/yImYkrwDTMWE8YUw4RXjIA/image" width="105px" height="105px" />
-</a>
-<!-- Google Cloud Badge (Custom Uploaded Image) -->
-<a href="https://www.cloudskillsboost.google/public_profiles/8e946210-239d-427a-a934-fe2a4720852c/badges/7946248">
-  <img src="https://github.com/user-attachments/assets/95a5f698-71ee-4db0-9e26-97eeadcb0b7c" width="105px" height="105px" />
-</a>
+  <!-- OpenAPI Fundamentals (Credly) -->
+  <a href="https://www.credly.com/badges/724d6ecc-9d95-48eb-bed5-2c91bb8a9f12/public_url">
+    <img src="https://github.com/user-attachments/assets/58afc75e-0893-44e2-a25a-27f1c12259a8" width="105px" height="105px" />
+  </a>
 
-</div>
+  <!-- Layer5 Meshery Design Pioneer -->
+  <a href="https://cloud.layer5.io/user/ed3ff164-571f-4b6c-a69a-f71630ee77bc?tab=badges&badge=first-design">
+    <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="105px" height="105px" />
+  </a>
 
+  <!-- Postman API Badge -->
+  <a href="https://badgr.com/public/assertions/vHKkOJaqTeyFwwVbNrUx6g?identity__email=mehfooja764@gmail.com">
+    <img src="https://badgr.com/public/assertions/vHKkOJaqTeyFwwVbNrUx6g/image" width="105px" height="105px" />
+  </a>
 
+  <!-- GenAI Badge -->
+  <a href="https://badgr.com/public/assertions/yImYkrwDTMWE8YUw4RXjIA?identity__email=mehfooja764@gmail.com">
+    <img src="https://badgr.com/public/assertions/yImYkrwDTMWE8YUw4RXjIA/image" width="105px" height="105px" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- Google Cloud Badge -->
+  <a href="https://www.cloudskillsboost.google/public_profiles/8e946210-239d-427a-a934-fe2a4720852c/badges/7946248">
+    <img src="https://github.com/user-attachments/assets/95a5f698-71ee-4db0-9e26-97eeadcb0b7c" width="105px" height="105px" />
+  </a>
+
+</div> <!-- END of center alignment -->
 <details>	
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/Savvythelegend">
