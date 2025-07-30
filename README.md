@@ -150,10 +150,8 @@ TypeScript               1 repo              █░░░░░░░░░░�
 </p>
 
 <p align="center">
-  🚀 Building cool things in public — open to OSS collabs, freelance gigs, and side-projects. <br>
-  ❤️ <a href="https://www.linkedin.com/in/mehfooj-a-b6aa0b243">Let’s connect on LinkedIn</a>
+  <strong>Always building something cool</strong> — <em>open to open source collaborations</em>, freelance work, and fun side-projects. <br>
+  <strong><a href="https://www.linkedin.com/in/mehfooj-a-b6aa0b243">Let’s connect on LinkedIn</a></strong> ⚡
 </p>
-
-
 
 
