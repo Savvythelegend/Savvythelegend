@@ -2,18 +2,21 @@ name: Update README
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
-  workflow_dispatch:
+    - cron: "*/30 * * * *"  # Every 30 minutes
+  workflow_dispatch:        # Allow manual trigger
 
 jobs:
-  build:
-    name: Update this repo's README with recent activity
+  update-readme:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
       - uses: actions/checkout@v4
+
       - uses: jamesgeorge007/github-activity-readme@master
+        with:
+          COMMIT_MSG: "⚡ Update recent activity"
+          FILE_PATH: "README.md"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
