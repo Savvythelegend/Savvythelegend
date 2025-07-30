@@ -25,8 +25,6 @@
   <summary><b>{;}⌨️ Developer Stats</b></summary><br>
 
 <!--START_SECTION:waka-->
-![Profile Views](https://komarev.com/ghpvc/?username=Savvythelegend&color=blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-182.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -89,14 +87,29 @@ Go                       1 repo              █░░░░░░░░░░�
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
-
-
-
+<br>
  Last Updated on 30/07/2025 15:05:31 UTC
 <!--END_SECTION:waka-->
 
 </details>
 
 <img src="https://raw.githubusercontent.com/Savvythelegend/Savvythelegend/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+
+<!--- Footer Stats - Social Media Status and Contact-->
+<p align="left">  
+  <a href="https://u8views.com/github/Savvythelegend">
+    <img src="https://u8views.com/api/v1/github/profiles/162735469/views/day-week-month-total-count.svg" alt="Mehfooj profile views" />
+  </a>
+  <a href="https://twitter.com/Mehfooj194108">
+    <img src="https://img.shields.io/twitter/follow/Mehfooj194108?label=Follow%20Me&style=social">
+  </a>
+  <a href="https://discord.com/invite/savvyethelegend">
+    <img src="https://img.shields.io/discord/1262681985885667348?label=Join%20Discord&style=shield">
+  </a>
+</p>
+<p align="center">
+Building cool things in public. Always up for open source collabs, impactful side-projects, or freelance dev work.<br>
+Let’s connect on <a href="https://www.linkedin.com/in/mehfooj-a-b6aa0b243">LinkedIn</a> and make something awesome.
+</p>
 
 
