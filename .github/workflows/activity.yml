@@ -1,0 +1,14 @@
+name: Recent GitHub Activity - Profile Readme
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch: ## allowing manual trigger
+  
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      -uses: Readme-Workflows/recent-activity@v2.4.1 # latest one
+      env:
+        RA_GITHUB_TOKEN: ${{ secrets.RA_GITHUB_TOKEN }}
