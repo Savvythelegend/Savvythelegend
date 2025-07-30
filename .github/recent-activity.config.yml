@@ -1,0 +1,6 @@
+max_lines: 5
+event_types:
+  - PushEvent
+  - PullRequestEvent
+  - IssuesEvent
+  - IssueCommentEvent
