@@ -25,9 +25,7 @@
   <summary><b>{;}⌨️ Developer Stats</b></summary><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-219-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Savvythelegend&color=blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-182.2%20thousand%20lines%20of%20code-blue)
 
@@ -92,11 +90,6 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Savvythelegend/Savvythelegend/main/assets/bar_graph.png)
 
 
  Last Updated on 30/07/2025 15:05:31 UTC
