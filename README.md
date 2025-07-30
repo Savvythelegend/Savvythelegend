@@ -88,28 +88,40 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 <br>
- Last Updated on 30/07/2025 15:05:31 UTC
+ <a href="https://u8views.com/github/Savvythelegend">
+    <img src="https://u8views.com/api/v1/github/profiles/162735469/views/day-week-month-total-count.svg" alt="Mehfooj profile views" />
+  </a>
 <!--END_SECTION:waka-->
 
 </details>
 
-<img src="https://raw.githubusercontent.com/Savvythelegend/Savvythelegend/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Savvythelegend/Savvythelegend/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
 
-<!--- Footer Stats - Social Media Status and Contact-->
-<p align="left">  
-  <a href="https://u8views.com/github/Savvythelegend">
-    <img src="https://u8views.com/api/v1/github/profiles/162735469/views/day-week-month-total-count.svg" alt="Mehfooj profile views" />
-  </a>
+<!--- Footer Stats - Social Media Status and Contact -->
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Savvythelegend&color=green" alt="Profile Views" />
   <a href="https://twitter.com/Mehfooj194108">
-    <img src="https://img.shields.io/twitter/follow/Mehfooj194108?label=Follow%20Me&style=social">
+    <img src="https://img.shields.io/twitter/follow/Mehfooj194108?label=Follow%20Me&style=social" alt="Twitter Follow" />
   </a>
   <a href="https://discord.com/invite/savvyethelegend">
-    <img src="https://img.shields.io/discord/1262681985885667348?label=Join%20Discord&style=shield">
+    <img src="https://img.shields.io/discord/1262681985885667348?label=Join%20Discord&logo=discord&logoColor=white&color=5865F2" alt="Join Discord" />
+  </a>
+  <a href="https://github.com/Savvythelegend?tab=stars">
+    <img src="https://img.shields.io/github/stars/Savvythelegend?label=Star%20Gazers&style=social" alt="GitHub Stars" />
+  </a>
+  <a href="https://github.com/Savvythelegend">
+    <img src="https://img.shields.io/github/followers/Savvythelegend?style=social" alt="GitHub Followers" />
   </a>
 </p>
+
 <p align="center">
-Building cool things in public. Always up for open source collabs, impactful side-projects, or freelance dev work.<br>
-Let’s connect on <a href="https://www.linkedin.com/in/mehfooj-a-b6aa0b243">LinkedIn</a> and make something awesome.
+  🚀 Building cool things in public — open to OSS collabs, freelance gigs, and side-projects. <br>
+  ❤️ <a href="https://www.linkedin.com/in/mehfooj-a-b6aa0b243">Let’s connect on LinkedIn</a>
 </p>
+
+
 
 
