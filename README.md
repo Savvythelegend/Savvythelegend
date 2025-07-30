@@ -1,4 +1,4 @@
-<img src="https://github.com/Savvythelegend/Savvythelegend/blob/main/assets/intro.gif?raw=true" width="100%" />
+<img src="https://github.com/Savvythelegend/Savvythelegend/blob/main/assets/pixel.gif?raw=true" width="100%" />
 
 <details>	
 <summary><b>⚙️ GitHub Analytics</b></summary>
