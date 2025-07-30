@@ -8,8 +8,8 @@
 </a>
 </details> 
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <img src="https://raw.githubusercontent.com/Savvythelegend/Savvythelegend/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
 
