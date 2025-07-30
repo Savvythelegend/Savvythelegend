@@ -32,7 +32,9 @@
   </a>
 
 </div> <!-- END of center alignment -->
-<details>	
+<details>
+  <br>
+  <br>
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/Savvythelegend">
   <img style="height: 260px; width: 58%;" src="https://raw.githubusercontent.com/Savvythelegend/Savvythelegend/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Savvylegend GitHub Profile Details" />
