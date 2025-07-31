@@ -59,8 +59,6 @@
   <summary><b>{;}⌨️ Developer Stats</b></summary><br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-369-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-182.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -84,12 +82,6 @@ Go                       1 repo              █░░░░░░░░░░�
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Savvythelegend/Savvythelegend/main/assets/bar_graph.png)
 
 
  Last Updated on 30/07/2025 18:59:13 UTC
