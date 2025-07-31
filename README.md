@@ -58,7 +58,7 @@
 <details>
   <summary><b>{;}⌨️ Developer Stats</b></summary><br>
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka-stats-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-182.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -83,7 +83,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka-stats-->
 
 </details>
 
