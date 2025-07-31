@@ -59,30 +59,81 @@
   <summary><b>{;}⌨️ Developer Stats</b></summary><br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-182.2%20thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-400-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-184.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 44.3 kB Used in GitHub's Storage 
+> 📦 44.4 kB Used in GitHub's Storage 
  > 
-> 🏆 667 Contributions in the Year 2025
+> 🏆 675 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
 > 📜 39 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                133 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+🌆 Daytime                350 commits         ██████████░░░░░░░░░░░░░░░   40.70 % 
+🌃 Evening                273 commits         ████████░░░░░░░░░░░░░░░░░   31.74 % 
+🌙 Night                  104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Tuesday                  108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Wednesday                193 commits         ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+Thursday                 64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Friday                   109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Saturday                 152 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Sunday                   142 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   15 repos            ██████████████░░░░░░░░░░░   57.69 % 
-JavaScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Python                   15 repos            ██████████████░░░░░░░░░░░   55.56 % 
+JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Savvythelegend/Savvythelegend/main/assets/bar_graph.png)
+
+
+ Last Updated on 31/07/2025 18:59:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
