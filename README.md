@@ -46,11 +46,11 @@
   <summary><b>🔄 GitHub Timeline</b></summary><br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#15508](https://github.com/meshery/meshery/issues/15508) in [meshery/meshery](https://github.com/meshery/meshery)
-2. 🎉 Merged PR [#1](https://github.com/Savvythelegend/leetcode/pull/1) in [Savvythelegend/leetcode](https://github.com/Savvythelegend/leetcode)
-3. 💪 Opened PR [#1](https://github.com/Savvythelegend/leetcode/pull/1) in [Savvythelegend/leetcode](https://github.com/Savvythelegend/leetcode)
-4. 🗣 Commented on [#15460](https://github.com/meshery/meshery/pull/15460#issuecomment-3124437630) in [meshery/meshery](https://github.com/meshery/meshery)
-5. ❌ Closed PR [#1](https://github.com/AtluriNikhil/Jobs-Scraper/pull/1) in [AtluriNikhil/Jobs-Scraper](https://github.com/AtluriNikhil/Jobs-Scraper)
+1. 🗣 Commented on [#1666](https://github.com/cartography-cncf/cartography/issues/1666#issuecomment-3146514955) in [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography)
+2. ❗ Opened issue [#15508](https://github.com/meshery/meshery/issues/15508) in [meshery/meshery](https://github.com/meshery/meshery)
+3. 🎉 Merged PR [#1](https://github.com/Savvythelegend/leetcode/pull/1) in [Savvythelegend/leetcode](https://github.com/Savvythelegend/leetcode)
+4. 💪 Opened PR [#1](https://github.com/Savvythelegend/leetcode/pull/1) in [Savvythelegend/leetcode](https://github.com/Savvythelegend/leetcode)
+5. 🗣 Commented on [#15460](https://github.com/meshery/meshery/pull/15460#issuecomment-3124437630) in [meshery/meshery](https://github.com/meshery/meshery)
 <!--END_SECTION:activity-->
 
 </details>
