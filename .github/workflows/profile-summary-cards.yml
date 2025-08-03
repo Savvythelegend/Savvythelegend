@@ -26,4 +26,3 @@ jobs:
           UTC_OFFSET: "5.5"                         # Optional: UTC offset (e.g., 5.5 for IST)
           EXCLUDE: ""                               # Optional: Exclude specific languages
           AUTO_PUSH: true                           # Auto commit and push changes
-          THEME: "2077,github_dark,monokai"         # Limit to these themes only
