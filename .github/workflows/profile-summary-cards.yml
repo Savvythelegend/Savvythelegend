@@ -1,36 +1,23 @@
-name: Generate GitHub Profile Summary Cards
+name: GitHub Profile Summary Cards
 
 on:
+  # Automatically run every Sunday at midnight
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+    - cron: '0 0 * * 0'
+  # Allow manual triggering
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
       - name: Generate GitHub Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: Savvythelegend
+          UTC_OFFSET: 5.5
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Check if output exists
-        run: |
-          if [ ! -d "profile-summary-card-output" ]; then
-            echo "❌ Output folder not found. Skipping commit."
-            exit 1
-          fi
-
-      - name: Commit and Push Cards
-        if: success()
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add ./profile-summary-card-output/
-          git commit -m "chore: update GitHub profile summary cards"
-          git push
+          GITHUB_TOKEN: ${{ secrets.PROFILE_CARDS_TOKEN }}
