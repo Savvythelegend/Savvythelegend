@@ -2,19 +2,28 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * 0"  # every Sunday
+    - cron: "0 0 * * 0"  # every Sunday at 00:00 UTC
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-cards
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write  # Required to commit generated files
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        with:
-          USERNAME: Savvythelegend
+      - name: Generate GitHub profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}  # Use a custom PAT
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}  # Use your personal access token here
+        with:
+          USERNAME: Savvythelegend                 # Your GitHub username
+          BRANCH_NAME: "main"                      # Target branch
+          UTC_OFFSET: "5.5"                         # Optional: UTC offset (e.g., 5.5 for IST)
+          EXCLUDE: ""                               # Optional: Exclude specific languages
+          AUTO_PUSH: true                           # Auto commit and push changes
+          THEME: "2077,github_dark,monokai"         # Limit to these themes only
