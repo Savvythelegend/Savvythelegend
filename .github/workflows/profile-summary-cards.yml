@@ -1,28 +1,36 @@
-name: GitHub Profile Summary Cards
+name: Generate GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 0 * * 0"  # every Sunday at 00:00 UTC
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-summary-cards
-    permissions:
-      contents: write  # Required to commit generated files
-
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
-      - name: Generate GitHub profile summary cards
+      - name: Generate GitHub Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}  # Use your personal access token here
         with:
-          USERNAME: Savvythelegend                 # Your GitHub username
-          BRANCH_NAME: "main"                      # Target branch
-          UTC_OFFSET: "5.5"                         # Optional: UTC offset (e.g., 5.5 for IST)
-          EXCLUDE: ""                               # Optional: Exclude specific languages
-          AUTO_PUSH: true                           # Auto commit and push changes
+          USERNAME: Savvythelegend
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check if output exists
+        run: |
+          if [ ! -d "profile-summary-card-output" ]; then
+            echo "❌ Output folder not found. Skipping commit."
+            exit 1
+          fi
+
+      - name: Commit and Push Cards
+        if: success()
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ./profile-summary-card-output/
+          git commit -m "chore: update GitHub profile summary cards"
+          git push
