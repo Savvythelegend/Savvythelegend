@@ -46,11 +46,11 @@
   <summary><b>🔄 GitHub Timeline</b></summary><br>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8227](https://github.com/cloudnative-pg/cloudnative-pg/pull/8227) in [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg)
-2. 💪 Opened PR [#8226](https://github.com/cloudnative-pg/cloudnative-pg/pull/8226) in [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg)
-3. 💪 Opened PR [#8225](https://github.com/cloudnative-pg/cloudnative-pg/pull/8225) in [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg)
-4. ❌ Closed PR [#1757](https://github.com/cartography-cncf/cartography/pull/1757) in [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography)
-5. ❌ Closed PR [#23](https://github.com/google/langextract/pull/23) in [google/langextract](https://github.com/google/langextract)
+1. ❌ Closed PR [#384](https://github.com/GoogleCloudPlatform/functions-framework-python/pull/384) in [GoogleCloudPlatform/functions-framework-python](https://github.com/GoogleCloudPlatform/functions-framework-python)
+2. 💪 Opened PR [#8227](https://github.com/cloudnative-pg/cloudnative-pg/pull/8227) in [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg)
+3. 💪 Opened PR [#8226](https://github.com/cloudnative-pg/cloudnative-pg/pull/8226) in [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg)
+4. 💪 Opened PR [#8225](https://github.com/cloudnative-pg/cloudnative-pg/pull/8225) in [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg)
+5. ❌ Closed PR [#1757](https://github.com/cartography-cncf/cartography/pull/1757) in [cartography-cncf/cartography](https://github.com/cartography-cncf/cartography)
 <!--END_SECTION:activity-->
 
 </details>
