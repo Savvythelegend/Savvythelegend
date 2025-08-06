@@ -46,11 +46,11 @@
   <summary><b>🔄 GitHub Timeline</b></summary><br>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1348](https://github.com/microsoft/markitdown/pull/1348) in [microsoft/markitdown](https://github.com/microsoft/markitdown)
-2. 🗣 Commented on [#15460](https://github.com/meshery/meshery/pull/15460#issuecomment-3153073986) in [meshery/meshery](https://github.com/meshery/meshery)
-3. 🗣 Commented on [#173](https://github.com/lfscanning/scaffold/pull/173#issuecomment-3151682724) in [lfscanning/scaffold](https://github.com/lfscanning/scaffold)
-4. ❌ Closed PR [#384](https://github.com/GoogleCloudPlatform/functions-framework-python/pull/384) in [GoogleCloudPlatform/functions-framework-python](https://github.com/GoogleCloudPlatform/functions-framework-python)
-5. 💪 Opened PR [#8227](https://github.com/cloudnative-pg/cloudnative-pg/pull/8227) in [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg)
+1. 🗣 Commented on [#15460](https://github.com/meshery/meshery/pull/15460#issuecomment-3157254758) in [meshery/meshery](https://github.com/meshery/meshery)
+2. ❌ Closed PR [#1348](https://github.com/microsoft/markitdown/pull/1348) in [microsoft/markitdown](https://github.com/microsoft/markitdown)
+3. 🗣 Commented on [#15460](https://github.com/meshery/meshery/pull/15460#issuecomment-3153073986) in [meshery/meshery](https://github.com/meshery/meshery)
+4. 🗣 Commented on [#173](https://github.com/lfscanning/scaffold/pull/173#issuecomment-3151682724) in [lfscanning/scaffold](https://github.com/lfscanning/scaffold)
+5. ❌ Closed PR [#384](https://github.com/GoogleCloudPlatform/functions-framework-python/pull/384) in [GoogleCloudPlatform/functions-framework-python](https://github.com/GoogleCloudPlatform/functions-framework-python)
 <!--END_SECTION:activity-->
 
 </details>
