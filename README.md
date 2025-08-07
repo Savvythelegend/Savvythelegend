@@ -46,11 +46,11 @@
   <summary><b>🔄 GitHub Timeline</b></summary><br>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15460](https://github.com/meshery/meshery/pull/15460#issuecomment-3157254758) in [meshery/meshery](https://github.com/meshery/meshery)
-2. ❌ Closed PR [#1348](https://github.com/microsoft/markitdown/pull/1348) in [microsoft/markitdown](https://github.com/microsoft/markitdown)
-3. 🗣 Commented on [#15460](https://github.com/meshery/meshery/pull/15460#issuecomment-3153073986) in [meshery/meshery](https://github.com/meshery/meshery)
-4. 🗣 Commented on [#173](https://github.com/lfscanning/scaffold/pull/173#issuecomment-3151682724) in [lfscanning/scaffold](https://github.com/lfscanning/scaffold)
-5. ❌ Closed PR [#384](https://github.com/GoogleCloudPlatform/functions-framework-python/pull/384) in [GoogleCloudPlatform/functions-framework-python](https://github.com/GoogleCloudPlatform/functions-framework-python)
+1. ❌ Closed PR [#371](https://github.com/zowe/zowe-client-python-sdk/pull/371) in [zowe/zowe-client-python-sdk](https://github.com/zowe/zowe-client-python-sdk)
+2. 🗣 Commented on [#15460](https://github.com/meshery/meshery/pull/15460#issuecomment-3157254758) in [meshery/meshery](https://github.com/meshery/meshery)
+3. ❌ Closed PR [#1348](https://github.com/microsoft/markitdown/pull/1348) in [microsoft/markitdown](https://github.com/microsoft/markitdown)
+4. 🗣 Commented on [#15460](https://github.com/meshery/meshery/pull/15460#issuecomment-3153073986) in [meshery/meshery](https://github.com/meshery/meshery)
+5. 🗣 Commented on [#173](https://github.com/lfscanning/scaffold/pull/173#issuecomment-3151682724) in [lfscanning/scaffold](https://github.com/lfscanning/scaffold)
 <!--END_SECTION:activity-->
 
 </details>
