@@ -46,11 +46,11 @@
   <summary><b>🔄 GitHub Timeline</b></summary><br>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#732](https://github.com/recodehive/Support/issues/732) in [recodehive/Support](https://github.com/recodehive/Support)
-2. ❌ Closed PR [#15460](https://github.com/meshery/meshery/pull/15460) in [meshery/meshery](https://github.com/meshery/meshery)
-3. ❌ Closed PR [#371](https://github.com/zowe/zowe-client-python-sdk/pull/371) in [zowe/zowe-client-python-sdk](https://github.com/zowe/zowe-client-python-sdk)
-4. 🗣 Commented on [#15460](https://github.com/meshery/meshery/pull/15460#issuecomment-3157254758) in [meshery/meshery](https://github.com/meshery/meshery)
-5. ❌ Closed PR [#1348](https://github.com/microsoft/markitdown/pull/1348) in [microsoft/markitdown](https://github.com/microsoft/markitdown)
+1. 🗣 Commented on [#15508](https://github.com/meshery/meshery/issues/15508#issuecomment-3183408665) in [meshery/meshery](https://github.com/meshery/meshery)
+2. ❗ Opened issue [#732](https://github.com/recodehive/Support/issues/732) in [recodehive/Support](https://github.com/recodehive/Support)
+3. ❌ Closed PR [#15460](https://github.com/meshery/meshery/pull/15460) in [meshery/meshery](https://github.com/meshery/meshery)
+4. ❌ Closed PR [#371](https://github.com/zowe/zowe-client-python-sdk/pull/371) in [zowe/zowe-client-python-sdk](https://github.com/zowe/zowe-client-python-sdk)
+5. 🗣 Commented on [#15460](https://github.com/meshery/meshery/pull/15460#issuecomment-3157254758) in [meshery/meshery](https://github.com/meshery/meshery)
 <!--END_SECTION:activity-->
 
 </details>
