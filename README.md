@@ -15,10 +15,10 @@
   <summary><b>🔄 GitHub Timeline</b></summary><br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Savvythelegend/MLE/pull/4) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
-2. 🗣 Commented on [#4](https://github.com/Savvythelegend/MLE/pull/4#issuecomment-3289752418) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
-3. 💪 Opened PR [#4](https://github.com/Savvythelegend/MLE/pull/4) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
-4. 🗣 Commented on [#1708](https://github.com/openfoodfacts/robotoff/issues/1708#issuecomment-3218911371) in [openfoodfacts/robotoff](https://github.com/openfoodfacts/robotoff)
+1. 🗣 Commented on [#4](https://github.com/Savvythelegend/MLE/pull/4#issuecomment-3289752418) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
+2. 💪 Opened PR [#4](undefined) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
+3. 💪 Opened PR [#1734](undefined) in [openfoodfacts/robotoff](https://github.com/openfoodfacts/robotoff)
+4. 🗣 Commented on [#1708](https://github.com/openfoodfacts/robotoff/issues/1708#issuecomment-3223536414) in [openfoodfacts/robotoff](https://github.com/openfoodfacts/robotoff)
 5.  Labeled issue [#732](https://github.com/recodehive/Support/issues/732) in [recodehive/Support](https://github.com/recodehive/Support)
 <!--END_SECTION:activity-->
 
