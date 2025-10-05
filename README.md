@@ -15,10 +15,10 @@
   <summary><b>🔄 GitHub Timeline</b></summary><br>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Savvythelegend/MLE/pull/4) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
-2. 🗣 Commented on [#4](https://github.com/Savvythelegend/MLE/pull/4#issuecomment-3289752418) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
-3. 💪 Opened PR [#4](https://github.com/Savvythelegend/MLE/pull/4) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
-4. 🗣 Commented on [#1708](https://github.com/openfoodfacts/robotoff/issues/1708#issuecomment-3223536414) in [openfoodfacts/robotoff](https://github.com/openfoodfacts/robotoff)
+1. ❗ Opened issue [#1441](https://github.com/recodehive/awesome-github-profiles/issues/1441) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
+2. 🎉 Merged PR [#4](https://github.com/Savvythelegend/MLE/pull/4) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
+3. 🗣 Commented on [#4](https://github.com/Savvythelegend/MLE/pull/4#issuecomment-3289752418) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
+4. 💪 Opened PR [#4](https://github.com/Savvythelegend/MLE/pull/4) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
 5.  Labeled issue [#732](https://github.com/recodehive/Support/issues/732) in [recodehive/Support](https://github.com/recodehive/Support)
 <!--END_SECTION:activity-->
 
