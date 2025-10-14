@@ -15,11 +15,11 @@
   <summary><b>🔄 GitHub Timeline</b></summary><br>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1734](https://github.com/openfoodfacts/robotoff/pull/1734) in [openfoodfacts/robotoff](https://github.com/openfoodfacts/robotoff)
-2. ❗ Opened issue [#1441](https://github.com/recodehive/awesome-github-profiles/issues/1441) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
-3. 🎉 Merged PR [#4](https://github.com/Savvythelegend/MLE/pull/4) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
-4. 🗣 Commented on [#4](https://github.com/Savvythelegend/MLE/pull/4#issuecomment-3289752418) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
-5. 💪 Opened PR [#4](https://github.com/Savvythelegend/MLE/pull/4) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
+1. ❗ Opened issue [#1671](https://github.com/recodehive/machine-learning-repos/issues/1671) in [recodehive/machine-learning-repos](https://github.com/recodehive/machine-learning-repos)
+2. ❌ Closed PR [#1734](https://github.com/openfoodfacts/robotoff/pull/1734) in [openfoodfacts/robotoff](https://github.com/openfoodfacts/robotoff)
+3. ❗ Opened issue [#1441](https://github.com/recodehive/awesome-github-profiles/issues/1441) in [recodehive/awesome-github-profiles](https://github.com/recodehive/awesome-github-profiles)
+4. 🎉 Merged PR [#4](https://github.com/Savvythelegend/MLE/pull/4) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
+5. 🗣 Commented on [#4](https://github.com/Savvythelegend/MLE/pull/4#issuecomment-3289752418) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
 <!--END_SECTION:activity-->
 
 </details>
