@@ -1,10 +1,7 @@
+<h1 align="center">Engineer. Builder. Learner.</h1>
 <img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/4088a351-2dc8-403c-9679-7f834d032499" />
 <br>
-<h1 align="center">Engineer. Builder. Learner.</h1>
-
-
 <details>
-  <br>
   <br>
 <summary><b>⚙️ GitHub Analytics</b></summary>
 <a href="https://github.com/Savvythelegend">
