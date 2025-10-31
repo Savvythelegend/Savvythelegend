@@ -98,6 +98,9 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 </details>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Savvythelegend/Savvythelegend/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
+</p>
 <h3 align="center">Certification Badges 🪶</h3>
 
 <div align="center">
@@ -127,11 +130,14 @@ TeX                      1 repo              █░░░░░░░░░░�
     <img src="https://github.com/user-attachments/assets/95a5f698-71ee-4db0-9e26-97eeadcb0b7c" width="105px" height="105px" />
   </a>
 
-</div> <!-- END of center alignment -->
+<div align="center">
+<br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Savvythelegend/Savvythelegend/output/github-snake-dark.svg" alt="GitHub Snake Animation" />
-</p>
+### ✨ Hacktoberfest 2025 Badges  
+[![An image of @savvythelegend's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/savvythelegend)](https://holopin.io/@savvythelegend)
+<br><br>
+
+</div>
 
 <!--- Footer Stats - Social Media Status and Contact -->
 <br>
