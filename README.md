@@ -27,9 +27,7 @@
   <summary><b>{;}⌨️ Developer Stats</b></summary><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-761.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-762.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -43,43 +41,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                455 commits         ████████░░░░░░░░░░░░░░░░░   32.90 % 
-🌆 Daytime                406 commits         ███████░░░░░░░░░░░░░░░░░░   29.36 % 
-🌃 Evening                383 commits         ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-🌙 Night                  139 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   112 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Tuesday                  432 commits         ████████░░░░░░░░░░░░░░░░░   31.24 % 
-Wednesday                236 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
-Thursday                 93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-Friday                   146 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Saturday                 198 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Sunday                   166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -93,7 +54,7 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2025 18:57:10 UTC
+ Last Updated on 01/11/2025 18:51:22 UTC
 <!--END_SECTION:waka-->
 
 </details>
