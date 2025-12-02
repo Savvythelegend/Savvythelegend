@@ -14,11 +14,11 @@
   <summary><b>🔄 GitHub Timeline</b></summary><br>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [Savvythelegend/game-of-life](https://github.com/Savvythelegend/game-of-life)
-2. 💪 Opened PR [#6](undefined) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
-3. 💪 Opened PR [#1](undefined) in [Savvythelegend/medical-data-extraction](https://github.com/Savvythelegend/medical-data-extraction)
-4. 💪 Opened PR [#5](undefined) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
-5. 🗣 Commented on [#1054](https://github.com/recodehive/recode-website/issues/1054#issuecomment-3455853632) in [recodehive/recode-website](https://github.com/recodehive/recode-website)
+1. ❌ Merged PR [#1](undefined) in [Savvythelegend/game-of-life](https://github.com/Savvythelegend/game-of-life)
+2. 💪 Opened PR [#1](undefined) in [Savvythelegend/game-of-life](https://github.com/Savvythelegend/game-of-life)
+3. ❌ Merged PR [#6](undefined) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
+4. 💪 Opened PR [#6](undefined) in [Savvythelegend/MLE](https://github.com/Savvythelegend/MLE)
+5. ❌ Merged PR [#1](undefined) in [Savvythelegend/medical-data-extraction](https://github.com/Savvythelegend/medical-data-extraction)
 <!--END_SECTION:activity-->
 
 </details>
